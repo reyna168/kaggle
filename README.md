@@ -29,6 +29,13 @@ https://www.wpzhiku.com/deep-in-wordpress-hook/
 https://blog.csdn.net/JackyTintin/article/details/53641885
 
 
+#GAN
+https://www.leiphone.com/news/201803/tzyNWACD2jzEhXgF.html
+
+https://www.leiphone.com/news/201803/uoOEpuBugb5YO9Ld.html
+
+#Gan pix2pix
+https://phillipi.github.io/pix2pix/
 
 
 
